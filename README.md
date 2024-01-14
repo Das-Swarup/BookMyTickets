@@ -1,4 +1,6 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# BookMyTickets
+Movie searching and ticket booking mobile app. Made with react native and ❤️
+
 
 # Getting Started
 
