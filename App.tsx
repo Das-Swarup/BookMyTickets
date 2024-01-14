@@ -1,9 +1,3 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- */
 
 import React from 'react';
 import type {PropsWithChildren} from 'react';
@@ -24,6 +18,8 @@ import {
   LearnMoreLinks,
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
+
+import CustomIcon from './src/components/CustomIcon';
 
 type SectionProps = PropsWithChildren<{
   title: string;
