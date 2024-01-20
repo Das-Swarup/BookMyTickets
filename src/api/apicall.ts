@@ -2,8 +2,6 @@
 
 import {API_KEY} from 'react-native-dotenv';
 
-// const API_KEY = "e76eec2b6f322d44e405ba39579478a1";
-
 export const baseImagePath = (size:string, path:string)=>{
     return `https://image.tmdb.org/t/p/${size}${path}`
 }
